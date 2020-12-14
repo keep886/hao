@@ -1,6 +1,7 @@
 <template>
 <div>
     manger
+   <h1>第二次提交</h1>
 </div>
 </template>
 <script>
